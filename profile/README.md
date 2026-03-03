@@ -37,7 +37,7 @@ We welcome:
 
 - Website: [https://hetairoi.xyz](https://hetairoi.xyz)
 - Organization: [https://github.com/hetairoi-labs](https://github.com/hetairoi-labs)
-- Contact: hello@hetairoi.xyz
+- Contact: contact@hetairoi.xyz
 
 ---
 
